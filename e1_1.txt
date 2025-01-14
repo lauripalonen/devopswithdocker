@@ -1,0 +1,5 @@
+CONTAINER ID   IMAGE     COMMAND                  CREATED         STATUS                          PORTS      NAMES
+ac2b4df99583   httpd     "httpd-foreground"       2 minutes ago   Exited (0) 51 seconds ago                  priceless_banach
+af7ca554f695   tomcat    "catalina.sh run"        2 minutes ago   Up 2 minutes                    8080/tcp   sweet_wilbur
+aff760a12444   nginx     "/docker-entrypoint.…"   5 minutes ago   Exited (0) About a minute ago              distracted_blackwell
+
